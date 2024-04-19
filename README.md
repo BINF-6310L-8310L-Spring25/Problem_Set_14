@@ -12,17 +12,17 @@ Specifically replicate their analysis of Stride Frequency vs Flight condition sh
 ![image](https://user-images.githubusercontent.com/47755288/233195923-6fbb13e5-550d-4a4f-8057-a9093cf35d94.png)
  
  
- ## Step 1 (4 points)
+ ## Step 1
  
  Find the data. You may need to use google. 
  
  
- ## Step 2 (4 points)
+ ## Step 2
  
  Import the data into R and format it so that you can test Stride Frequency vs Treatment
  
  
- ## Step 3 (2 points)
+ ## Step 3
  
  Plot the data and conduct an ANOVA 
  

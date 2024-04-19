@@ -14,12 +14,16 @@ Specifically replicate their analysis of Stride Frequency vs Flight condition sh
  
  ## Step 1
  
- Find the data. You may need to use google. 
+ Find the data. You can use any resource.
  
  
  ## Step 2
  
- Import the data into R and format it so that you can test Stride Frequency vs Treatment
+ Import the data into R
+
+ # Question 1
+
+ How many samples are missing PawDrag data?
  
  
  ## Step 3

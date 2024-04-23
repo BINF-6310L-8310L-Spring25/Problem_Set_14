@@ -28,5 +28,8 @@ Specifically replicate their analysis of Stride Frequency vs Flight condition sh
  
  ## Step 3
  
- Plot the data and conduct an ANOVA 
+ Plot the data and conduct an ANOVA of your choice
  
+# Question 2 
+
+Report the results of your ANOVA analysis

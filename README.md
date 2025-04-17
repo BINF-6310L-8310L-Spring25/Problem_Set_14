@@ -28,3 +28,14 @@ What is the effect allele for the SNP with the most significant P-value for both
 ### Question 2
 
 What position on the X chromosome has the biggest difference in the effect size (beta) between males and females. 
+
+### Question 3
+
+Test this hypothesis with a t-test. 
+Hypothesis: In females, SNPs with an effect allele frequency less than 0.05 have a smaller effect on macular degeneration than SNPs with an effect allele frequency greater than or equal to 0.05. 
+
+### Question 4
+
+You previously discovered that rs142658961 was implicated in macular degeneration. Use the SNPdb https://www.ncbi.nlm.nih.gov/snp/ to find information about this SNP. 
+
+What is the effect allele and beta for this rs in males?

@@ -2,34 +2,19 @@
 
 The goal of this problem set is to give you some real world experience in finding published data. Published data can be a rich source of new scientific study. 
 
-You will be reproducing one analysis from "Altered rodent gait characteristics after ~35 days in orbit aboard the International Space Station" by Kwok et al 2020
+You are a researcher studying **macular degeneration** which is a degenerative condition affecting the central part of the retina (the macula) and resulting in distortion or loss of central vision.
 
-**Link to paper** 
-https://www.sciencedirect.com/science/article/pii/S221455241930135X?via%3Dihub
+You come across an article titled "The impact of non-additive genetic associations on age-related complex diseases" which conducts a GWAS on 22 age-related diseases. 
 
-Specifically replicate their analysis of Stride Frequency vs Flight condition shown in the figure below
+_Abstract_
 
-![image](https://user-images.githubusercontent.com/47755288/233195923-6fbb13e5-550d-4a4f-8057-a9093cf35d94.png)
- 
- 
- ## Step 1
- 
- Find the data. You can use any resource.
- 
- 
- ## Step 2
- 
- Import the data into R
+_Genome-wide association studies (GWAS) are not fully comprehensive, as current strategies typically test only the additive model, exclude the X chromosome, and use only one reference panel for genotype imputation. We implement an extensive GWAS strategy, GUIDANCE, which improves genotype imputation by using multiple reference panels and includes the analysis of the X chromosome and non-additive models to test for association. We apply this methodology to 62,281 subjects across 22 age-related diseases and identify 94 genome-wide associated loci, including 26 previously unreported. Moreover, we observe that 27.7% of the 94 loci are missed if we use standard imputation strategies with a single reference panel, such as HRC, and only test the additive model. Among the new findings, we identify three novel low-frequency recessive variants with odds ratios larger than 4, which need at least a three-fold larger sample size to be detected under the additive model. This study highlights the benefits of applying innovative strategies to better uncover the genetic architecture of complex diseases._
 
- # Question 1
+You want to examine the raw summary statistics for macular degeneration for this phenotype. 
 
- How many samples are missing PawDrag data?
- 
- 
- ## Step 3
- 
- Plot the data and conduct an ANOVA of your choice
- 
-# Question 2 
 
-Report the results of your ANOVA analysis
+Here is the article: https://www.nature.com/articles/s41467-021-21952-4 
+
+## Step 1 
+Find the raw summary statistics
+
